@@ -45,12 +45,21 @@ This project right now open source, you can use this theme for your clients/own 
 - And lot of More
 ### You can read bangla article for about this theme. [Click Here](http://www.pchelpcenterbd.com/review-13812)
 
+
 ## Recommended Plugins
+
 [Contact Form 7](https://wordpress.org/plugins/contact-form-7/)
+
 [Download Manager](https://wordpress.org/plugins/download-manager/)
+
 [Student Result or Employee Database](https://wordpress.org/plugins/simple-student-result/)
+
 [WP-PostViews](https://wordpress.org/plugins/wp-postviews/)
+
 [WPDM - Dropbox Explorer](http://www.wpdownloadmanager.com/)
+
+
+
 
 
 ![Screenshots](https://raw.githubusercontent.com/hmbashar/educational-School-Collage-WordPress-Themes/master/screenshots/Edu-9-1024x751.jpg)
