@@ -1,0 +1,15 @@
+
+@font-face {
+  font-family: 'SolaimanLipi';
+  src: url('../fonts/SolaimanLipi.eot?#iefix') format('embedded-opentype'),  url('../fonts/SolaimanLipi.woff') format('woff'), url('../fonts/SolaimanLipi.ttf')  format('truetype'), url('../fonts/SolaimanLipi.svg#SolaimanLipi') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'MonotypeCorsiva';
+  src: url('../fonts/MonotypeCorsiva.eot?#iefix') format('embedded-opentype'),  url('../fonts/MonotypeCorsiva.woff') format('woff'), url('../fonts/MonotypeCorsiva.ttf')  format('truetype'), url('../fonts/MonotypeCorsiva.svg#MonotypeCorsiva') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

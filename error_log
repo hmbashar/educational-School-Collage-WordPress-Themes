@@ -1,0 +1,5 @@
+[03-Apr-2016 17:09:48 Europe/London] PHP Fatal error:  Call to undefined function get_header() in /home/coding/public_html/all-demo/wp-demo/edu/wp-content/themes/edu/index.php on line 2
+[03-Apr-2016 17:09:55 Europe/London] PHP Fatal error:  Call to undefined function get_header() in /home/coding/public_html/all-demo/wp-demo/edu/wp-content/themes/edu/index.php on line 2
+[03-Apr-2016 17:09:59 Europe/London] PHP Fatal error:  Call to undefined function get_header() in /home/coding/public_html/all-demo/wp-demo/edu/wp-content/themes/edu/index.php on line 2
+[06-Mar-2017 17:15:45 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/coding/public_html/all-demo/wp-demo/edu/wp-content/themes/edu/index.php on line 2
+[06-Mar-2017 17:15:54 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/coding/public_html/all-demo/wp-demo/edu/wp-content/themes/edu/index.php on line 2
