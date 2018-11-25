@@ -61,7 +61,7 @@ This project right now open source, you can use this theme for your clients/own 
 
 
 
-#### Screenshots for preview
+## Screenshots for preview
 ![Screenshots](https://raw.githubusercontent.com/hmbashar/educational-School-Collage-WordPress-Themes/master/screenshots/Edu-9-1024x751.jpg)
 ![Screenshots](https://raw.githubusercontent.com/hmbashar/educational-School-Collage-WordPress-Themes/master/screenshots/Edu%202.jpg)
 ![Screenshots](https://raw.githubusercontent.com/hmbashar/educational-School-Collage-WordPress-Themes/master/screenshots/Edu%205.jpg)
