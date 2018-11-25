@@ -10,7 +10,10 @@
 
 This project right now open source, you can use this theme for your clients/own project and also you can modify this theme as you wish.
 
-##	Theme Featured
+### [Demo](http://wp-demo.codingbank.com/edu/)
+### [More Details](https://www.codingbank.com/item/edu-school-collage-wordpress-themes/)
+
+##	Theme Features
 
 - Students Panel
 - Teachers Panel
@@ -42,3 +45,10 @@ This project right now open source, you can use this theme for your clients/own 
 - And lot of More
 ### You can read bangla article for about this theme. [Click Here](http://www.pchelpcenterbd.com/review-13812)
 
+![Screenshots](https://raw.githubusercontent.com/hmbashar/educational-School-Collage-WordPress-Themes/master/screenshots/Edu-9-1024x751.jpg)
+![Screenshots](https://raw.githubusercontent.com/hmbashar/educational-School-Collage-WordPress-Themes/master/screenshots/Edu%202.jpg)
+![Screenshots](https://raw.githubusercontent.com/hmbashar/educational-School-Collage-WordPress-Themes/master/screenshots/Edu%205.jpg)
+![Screenshots](https://raw.githubusercontent.com/hmbashar/educational-School-Collage-WordPress-Themes/master/screenshots/Edu%206.jpg)
+![Screenshots](https://raw.githubusercontent.com/hmbashar/educational-School-Collage-WordPress-Themes/master/screenshots/Edu%207.jpg)
+![Screenshots](https://raw.githubusercontent.com/hmbashar/educational-School-Collage-WordPress-Themes/master/screenshots/Screenshot_15.png)
+![Screenshots](https://raw.githubusercontent.com/hmbashar/educational-School-Collage-WordPress-Themes/master/screenshots/on-off-switch.jpg)
